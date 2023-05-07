@@ -1,0 +1,19 @@
+{
+    "name": "bernard/back",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamza Chikhi",
+            "email": "chikhi.h@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "vlucas/phpdotenv": "^5.4",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
