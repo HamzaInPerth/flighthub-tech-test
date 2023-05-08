@@ -1,0 +1,43 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    padding: 1rem 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    margin: 0 5px;
+}
+
+.menu a {
+    color: rgb(167, 202, 237);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.menu a:hover {
+    background-color: rgb(167, 202, 237);
+    color: #000;
+}
+
+.menu a:active {
+    background-color: #fff;
+    color: pink;
+}
