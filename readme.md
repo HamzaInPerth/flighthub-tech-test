@@ -12,4 +12,4 @@ npm install<br />
 npm start<br /><br />
 
 Download node_modules folder, it goes inside the folder ./front<br />
-https://we.tl/t-ymXG7lr222
+https://we.tl/t-MUPeUUnr16
